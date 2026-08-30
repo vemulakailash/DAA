@@ -1,0 +1,1 @@
+Conclusion: The Towers of Hanoi algorithm successfully solves the problem using recursion. The total number of moves required is 2ⁿ − 1, which increases exponentially as the number of disks increases. Therefore, the algorithm has O(2ⁿ) time complexity and is not efficient for large values of n.
